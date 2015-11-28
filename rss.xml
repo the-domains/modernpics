@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ModernPics Photography]]></title>
         <description><![CDATA[ModernPics Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/modernpics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 20:17:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 Nov 2015 20:22:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/modernpics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test Post ]]></title>
-            <description><![CDATA[<article><h1>Test Post </h1><p>Hello World</p></article>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <description><![CDATA[<article><h1>Test Post </h1><p>Hello World</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4eee8ac-4dcc-47ba-a3dc-2232b4b74931.png"></article>]]></description>
+            <link>https://thegrid.ai/modernpics/test-post/index.html</link>
             <guid isPermaLink="false">eda13ea1-5948-4dc9-bdde-190895ed964b</guid>
-            <pubDate>Sat, 28 Nov 2015 20:17:24 GMT</pubDate>
+            <pubDate>Sat, 28 Nov 2015 20:22:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
