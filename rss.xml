@@ -4,14 +4,21 @@
         <description><![CDATA[ModernPics Photography]]></description>
         <link>https://thegrid.ai/modernpics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 20:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 14:48:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/modernpics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test Post ]]></title>
-            <description><![CDATA[<article><h1>Test Post </h1><p>Hello World</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4eee8ac-4dcc-47ba-a3dc-2232b4b74931.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Test Post </h1><p>Hello World</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e8525bd9bed13be08a7e3076f116eb8ac7b8122.png"></article>]]></description>
             <link>https://thegrid.ai/modernpics/test-post/index.html</link>
             <guid isPermaLink="false">eda13ea1-5948-4dc9-bdde-190895ed964b</guid>
             <pubDate>Sat, 28 Nov 2015 20:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pre-Post Images G-9 d201301XX.1 | IMG_0008]]></title>
+            <description><![CDATA[<article><h1>Pre-Post Images G-9 d201301XX.1 | IMG_0008</h1><p>Dave Safley Photography | ModernPics.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3917462071c468ac7bf8b518fb49c52e3f2f5b08.jpg"></article>]]></description>
+            <link>http://modernpics.zenfolio.com/p529153900/h1cc3ad21#he5b2f44</link>
+            <guid isPermaLink="false">d3a581ff-e791-47be-b152-e822ec9726ce</guid>
+            <pubDate>Tue, 08 Dec 2015 14:48:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
