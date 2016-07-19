@@ -4,18 +4,32 @@
         <description><![CDATA[ModernPics Photography]]></description>
         <link>https://thegrid.ai/modernpics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 14:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 14:18:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/modernpics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test Post ]]></title>
-            <description><![CDATA[<article><h1>Test Post </h1><p>Hello World</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e8525bd9bed13be08a7e3076f116eb8ac7b8122.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4eee8ac-4dcc-47ba-a3dc-2232b4b74931.png">]]></description>
             <link>https://thegrid.ai/modernpics/test-post/index.html</link>
             <guid isPermaLink="false">eda13ea1-5948-4dc9-bdde-190895ed964b</guid>
             <pubDate>Sat, 28 Nov 2015 20:22:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is a test of this system on July 19th, 2016 to see the progress of how this is coming along </p>]]></description>
+            <link>https://thegrid.ai/modernpics/this-is-a-test-of-this-system-on-july-19th-2016-to-see-the/index.html</link>
+            <guid isPermaLink="false">9933fdf8-0b42-4b8e-897d-dabd4398fc6b</guid>
+            <pubDate>Tue, 19 Jul 2016 14:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://nikonrumors.com/wp-content/uploads/2015/12/Nikon-24mm-f1.8G-lens-review-at-DxOMark.jpg">]]></description>
+            <link>https://thegrid.ai/modernpics/d1a42d5c-6fee-4c58-9e4f-d85e0c696996/index.html</link>
+            <guid isPermaLink="false">d1a42d5c-6fee-4c58-9e4f-d85e0c696996</guid>
+            <pubDate>Wed, 09 Dec 2015 14:27:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DxOMark review of the Nikon AF-S Nikkor 24mm f/1.8G ED lens: "superb"]]></title>
-            <description><![CDATA[<article><h1>DxOMark review of the Nikon AF-S Nikkor 24mm f/1.8G ED lens: "superb"</h1><p>DxOMark published their test results for the Nikon AF-S Nikkor 24mm f/1.8G ED - the lens is " superb": Tested on a Nikon D810, the new Nikon 24mm f/1.8G achieves an outstanding overall DxOMark score of 41 points.</p><img src="http://nikonrumors.com/wp-content/uploads/2015/08/Nikkor-24mm-f1.8G-ED-550x309.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>DxOMark review of the Nikon AF-S Nikkor 24mm f/1.8G ED lens: "superb"</h1><p>DxOMark published their test results for the Nikon AF-S Nikkor 24mm f/1.8G ED - the lens is " superb": Tested on a Nikon D810, the new Nikon 24mm f/1.8G achieves an outstanding overall DxOMark score of 41 points.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/310e2d982366d9f629b0c63fe8f4cc0ea8ba5078.jpg"></article>]]></description>
             <link>http://nikonrumors.com/2015/12/08/dxomark-review-of-the-nikon-af-s-nikkor-24mm-f1-8g-ed-lens-superb.aspx/#more-99929</link>
             <guid isPermaLink="false">f372f7fc-0afa-40cc-a613-e1012707c1e7</guid>
             <pubDate>Wed, 09 Dec 2015 14:27:11 GMT</pubDate>
